@@ -9,11 +9,11 @@ Este projeto tem como objetivo explorar e analisar dados de diabetes utilizando 
 - Treinar modelos de Regressão Linear com e sem interceptação.
 - Avaliar a acurácia dos modelos nos conjuntos de treino e teste.
 - Comparar o desempenho dos modelos utilizando gráficos.
-- 
+  
 ## Bibliotecas Utilizadas
 - `scikit-learn`: para carregar o conjunto de dados, treinar os modelos de Regressão Linear e avaliar a acurácia.
 - `matplotlib`: para plotar gráficos que mostram a acurácia dos modelos.
-- 
+  
 ## Instalação
 Certifique-se de ter o Python instalado em seu ambiente. Você pode instalar as bibliotecas necessárias usando pip:
 ```bash
