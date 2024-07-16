@@ -1,27 +1,30 @@
-# Análise de Dados de Diabetes com Regressão Linear
+# Diabetes Data Analysis with Linear Regression
 
-Este projeto tem como objetivo explorar e analisar dados de diabetes utilizando Regressão Linear. O conjunto de dados utilizado é o Diabetes Dataset, disponível na biblioteca scikit-learn.
+This project aims to explore and analyze diabetes data using Linear Regression. The dataset used is the Diabetes Dataset, available in the scikit-learn library.
 
-## Objetivos
+## Objectives
 
-- Carregar e explorar o conjunto de dados de diabetes.
-- Dividir os dados em conjuntos de treino e teste.
-- Treinar modelos de Regressão Linear com e sem interceptação.
-- Avaliar a acurácia dos modelos nos conjuntos de treino e teste.
-- Comparar o desempenho dos modelos utilizando gráficos.
+- Load and explore the diabetes dataset.
+- Split the data into training and testing sets.
+- Train Linear Regression models with and without intercept.
+- Evaluate the accuracy of the models on the training and testing sets.
+- Compare the performance of the models using graphs.
   
-## Bibliotecas Utilizadas
-- `scikit-learn`: para carregar o conjunto de dados, treinar os modelos de Regressão Linear e avaliar a acurácia.
-- `matplotlib`: para plotar gráficos que mostram a acurácia dos modelos.
+## Libraries Used
+
+- `scikit-learn`: to load the dataset, train the Linear Regression models, and evaluate accuracy.
+- `matplotlib`: to plot graphs showing the models' accuracy.
   
-## Instalação
-Certifique-se de ter o Python instalado em seu ambiente. Você pode instalar as bibliotecas necessárias usando pip:
+## Installation
+
+Ensure you have Python installed in your environment. You can install the necessary libraries using pip:
 ```bash
 pip install scikit-learn matplotlib
 ```
+## Usage
 
-## Uso
-O código a seguir carrega o conjunto de dados, divide os dados em conjuntos de treino e teste, treina modelos de Regressão Linear com e sem interceptação, avalia a acurácia e plota os resultados.
+The following code loads the dataset, splits the data into training and testing sets, trains Linear Regression models with and without intercept, evaluates accuracy, and plots the results.
 
-## Resultados Esperados
-Espera-se que este projeto forneça uma compreensão prática de como a Regressão Linear pode ser aplicada para análise de dados de diabetes, além de demonstrar como a interceptação afeta o desempenho do modelo.
+## Expected Results
+
+This project is expected to provide a practical understanding of how Linear Regression can be applied to diabetes data analysis and demonstrate how intercept affects model performance.
